@@ -1,4 +1,4 @@
-### Hi there 👋
+### 임근혁 저장소👋
 
 <!--
 **gh-im/gh-im** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🙋‍♂️ Personal Info
+Geun Hyeok Im
+lgh7586@naver.com
+
+🔨 Technology Stacks
+Frontend :     
+Backend :    
+Version Control :  
+Deployment 
